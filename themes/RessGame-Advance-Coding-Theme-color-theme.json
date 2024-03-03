@@ -386,7 +386,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#a8ff6e"
+				"foreground": "#79be4b"
 			}
 		},
 		{
@@ -490,7 +490,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#E9C46A"
+				"foreground": "#f17bfc"
 			}
 		},
 		{
@@ -510,7 +510,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#E9C46A"
+				"foreground": "#56f7b4"
 			}
 		},
 		{
