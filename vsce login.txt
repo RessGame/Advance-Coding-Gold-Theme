@@ -1,0 +1,14 @@
+npm install -g vsce   			       // install vsce
+
+vsce login ressgame   			      // login to vsce marketplace
+
+*********************** Type Token Azure     // to validate account
+
+vsce package                                // package project to package.json
+
+vsce publish				   // publish your package to Azure Marketplace
+
+vsce publish minor / major		  // update changes to Marketplace project
+
+
+

@@ -152,7 +152,7 @@
 		"sideBarSectionHeader.foreground": "#ff4b4b",
 		"statusBar.background": "#1D343D",
 		"statusBar.border": "#14242B60",
-		"statusBar.debuggingBackground": "#E9C46A",
+		"statusBar.debuggingBackground": "#1d343d",
 		"statusBar.debuggingForeground": "#E9C46A",
 		"statusBar.foreground": "#E9C46A",
 		"statusBar.noFolderBackground": "#14242B",
@@ -218,7 +218,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#EEFFFF"
+				"foreground": "#ff8c6f"
 			}
 		},
 		{
@@ -262,10 +262,9 @@
 		},
 		{
 			"name": "Operator, Misc",
-			"scope": [
-				"keyword.control",
+			"scope": [				
 				"constant.other.color",
-				"punctuation",
+				
 				"meta.tag",
 				"punctuation.definition.tag",
 				"punctuation.separator.inheritance.php",
@@ -280,6 +279,40 @@
 				"foreground": "#ffffff"
 			}
 		},
+
+
+
+		{	
+			"name": "Operator, Misc", 
+			"scope": [
+					"punctuation",
+			],
+			"settings": {
+					"foreground": "#c77bfa"
+			}
+		},
+		{	
+			"name": "Operator, Misc", 
+			"scope": [
+					"keyword.control",
+					
+			],
+			"settings": {
+					"foreground": "#c77bfa"
+			}
+		},
+
+
+
+
+
+
+
+
+
+
+
+		
 		{
 			"name": "Tag",
 			"scope": [
@@ -318,7 +351,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#E9C46A"
+				"foreground": "#fdbf8d"
 			}
 		},
 		{
@@ -353,7 +386,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#E9C46A"
+				"foreground": "#a8ff6e"
 			}
 		},
 		{
@@ -393,7 +426,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#f7c495"
 			}
 		},
 		{
@@ -407,7 +440,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#8bd1ff"
 			}
 		},
 		{
