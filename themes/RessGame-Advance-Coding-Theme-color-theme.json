@@ -208,7 +208,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#5e8f92"
+				"foreground": "#818181"
 			}
 		},
 		{
@@ -258,7 +258,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#e48c44"
+				"foreground": "#ff92ad"
 			}
 		},
 		{
@@ -289,7 +289,7 @@
 					"punctuation",
 			],
 			"settings": {
-					"foreground": "#ffffff"
+					"foreground": "#f85d84"
 			}
 		},
 		
