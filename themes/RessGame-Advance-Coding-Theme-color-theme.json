@@ -163,7 +163,7 @@
 		"tab.activeBorder": "#E9C46A",
 		"tab.activeForeground": "#E9C46A",
 		"tab.activeModifiedBorder": "#E9C46A",
-		"tab.border": "#e9c56a00",
+		"tab.border": "#E9C46A10",
 		"tab.inactiveBackground": "#00000013",
 		"tab.inactiveForeground": "#E9C46Aaf",
 		"tab.unfocusedActiveBorder": "#E9C46A",
@@ -208,7 +208,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#5e8f92"
 			}
 		},
 		{
