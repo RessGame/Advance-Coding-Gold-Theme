@@ -218,9 +218,10 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#ff8c6f"
+				"foreground": "#b4dba9"
 			}
 		},
+		
 		{
 			"name": "Colors",
 			"scope": [
@@ -246,7 +247,7 @@
 				"keyword",				
 			],
 			"settings": {
-				"foreground": "#E9C46A"
+				"foreground": "#fd94da"
 			}
 		},
 
@@ -257,7 +258,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#32adff"
+				"foreground": "#e48c44"
 			}
 		},
 		{
@@ -288,9 +289,10 @@
 					"punctuation",
 			],
 			"settings": {
-					"foreground": "#ff3cc4"
+					"foreground": "#ffffff"
 			}
 		},
+		
 		{	
 			"name": "Operator, Misc", 
 			"scope": [
@@ -298,7 +300,7 @@
 					
 			],
 			"settings": {
-					"foreground": "#ff3cc4"
+					"foreground": "#fd94da"
 			}
 		},
 
@@ -351,7 +353,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#fdbf8d"
+				"foreground": "#1695cf"
 			}
 		},
 		{
@@ -360,7 +362,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#E9C46A"
 			}
 		},
 		{
@@ -386,7 +388,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#79be4b"
+				"foreground": "#E9C46A"
 			}
 		},
 		{
@@ -400,8 +402,9 @@
 				"markup.inserted.git_gutter",
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
+			
 			"settings": {
-				"foreground": "#11d6bf"
+				"foreground": "#27b68b"
 			}
 		},
 		{
@@ -510,7 +513,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#11d6bf"
+				"foreground": "#27b68b"
 			}
 		},
 		{
